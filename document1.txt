@@ -1,1 +1,2 @@
 Check if merge from feature branch in github works in local repository
+Trying once again rebase and fetch on branches
