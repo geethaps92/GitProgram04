@@ -1,7 +1,7 @@
 void fact(int n)
 {
 
-  /* i m trying to learn what is git fetch origin checking again*/
+  /* i m trying to learn what is git fetch origin checking again and again */
   int f = 1;
   for (int i=2; i<=n; i++)
     f = f * i;
